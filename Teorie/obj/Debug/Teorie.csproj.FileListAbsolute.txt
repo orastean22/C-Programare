@@ -1,0 +1,8 @@
+C:\mycode\incapsulare\Teorie\Teorie\bin\Debug\Teorie.exe.config
+C:\mycode\incapsulare\Teorie\Teorie\bin\Debug\Teorie.exe
+C:\mycode\incapsulare\Teorie\Teorie\bin\Debug\Teorie.pdb
+C:\mycode\incapsulare\Teorie\Teorie\obj\Debug\Teorie.csproj.AssemblyReference.cache
+C:\mycode\incapsulare\Teorie\Teorie\obj\Debug\Teorie.csproj.SuggestedBindingRedirects.cache
+C:\mycode\incapsulare\Teorie\Teorie\obj\Debug\Teorie.csproj.CoreCompileInputs.cache
+C:\mycode\incapsulare\Teorie\Teorie\obj\Debug\Teorie.exe
+C:\mycode\incapsulare\Teorie\Teorie\obj\Debug\Teorie.pdb
